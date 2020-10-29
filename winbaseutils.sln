@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winbaseutils", "winbaseutil
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winmkdir", "winmkdir\winmkdir.vcxproj", "{D367BC54-0D1C-44B9-BEA6-3859A61AFE2A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fastcopy", "fastcopy\fastcopy.vcxproj", "{5A8AD0D4-01D3-4475-8314-7C61532A31BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D367BC54-0D1C-44B9-BEA6-3859A61AFE2A}.Release|x64.Build.0 = Release|x64
 		{D367BC54-0D1C-44B9-BEA6-3859A61AFE2A}.Release|x86.ActiveCfg = Release|Win32
 		{D367BC54-0D1C-44B9-BEA6-3859A61AFE2A}.Release|x86.Build.0 = Release|Win32
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Debug|x64.ActiveCfg = Debug|x64
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Debug|x64.Build.0 = Debug|x64
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Debug|x86.Build.0 = Debug|Win32
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Release|x64.ActiveCfg = Release|x64
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Release|x64.Build.0 = Release|x64
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Release|x86.ActiveCfg = Release|Win32
+		{5A8AD0D4-01D3-4475-8314-7C61532A31BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
