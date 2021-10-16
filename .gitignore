@@ -7,3 +7,4 @@ x64
 build-fastcp-Desktop_Qt_5_12_5_MSVC2017_64bit-Debug/
 build_ninja
 .vscode
+*.exe
